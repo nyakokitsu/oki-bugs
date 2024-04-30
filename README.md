@@ -1,1 +1,1 @@
-# Please go to issues to report a bug!
+# Please go to discussions to report a bug!
