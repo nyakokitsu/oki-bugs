@@ -1,2 +1,1 @@
-# oki-bugs
-🪲 Oki Project Bug Tracking
+# Please go to issues to report a bug!
